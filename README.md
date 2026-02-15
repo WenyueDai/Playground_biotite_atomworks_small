@@ -67,8 +67,6 @@ Annotation system and geometric analysis:
 * `struc.rmsd`
 * `py3dmol` visualization (embedded in Atomworks)
 
-<img src="images/image3.png" width="600">
-
 ---
 
 ### Atomworks dataset-level superimposition
