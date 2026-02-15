@@ -177,9 +177,22 @@ Notebooks:
 * `20260214_biotite_image_globule.ipynb`
 * `20260215_biotite_image_amyloid.ipynb`
 
-Biotite is used for structural parsing and geometric extraction.
-- For amyloid filament: 
-<img src="images/image5.png" width="400">
-- For globular protein
-<img src="images/image6.png" width="400">
-<img src="images/image_7.png" width="400">
+Biotite is used to parse atomic structures and extract the geometric information needed for 2D projection and schematic rendering.
+
+* **Amyloid filaments**
+  Structural coordinates are parsed and flattened into a linear representation suitable for filament visualization.
+
+  <img src="images/image5.png" width="400">
+
+* **Globular proteins**
+  Secondary structure elements are mapped onto the sequence.
+
+  * **Bold** residues indicate β-strands
+  * Dashes (`-`) indicate α-helices
+
+  <img src="images/image6.png" width="400">
+
+  An orthographic projection of the globular structure is generated, including support for multi-structure superimposition.
+  The image output reflects the selected projection axis and camera orientation.
+
+  <img src="images/image_7.png" width="400">
