@@ -82,7 +82,7 @@ Annotation system and geometric analysis:
 * `struc.mass_center`
 * `py2dmol` visualization
 
-<img src="images/image.png" width="600">
+<img src="images/image_3.png" width="600">
 
 ---
 
@@ -180,7 +180,8 @@ Notebooks:
 * `20260215_biotite_image_amyloid.ipynb`
 
 Biotite is used for structural parsing and geometric extraction.
-
+- For amyloid filament: 
 <img src="images/image5.png" width="600">
+- For globular protein
 <img src="images/image6.png" width="600">
-<img src="images/schematic.svg" width="600">
+<img src="images/image_7.png" width="600">
