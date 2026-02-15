@@ -179,7 +179,7 @@ Notebooks:
 
 Biotite is used for structural parsing and geometric extraction.
 - For amyloid filament: 
-<img src="images/image5.png" width="600">
+<img src="images/image5.png" width="400">
 - For globular protein
-<img src="images/image6.png" width="600">
-<img src="images/image_7.png" width="600">
+<img src="images/image6.png" width="400">
+<img src="images/image_7.png" width="400">
