@@ -25,7 +25,7 @@ Core structural manipulation utilities:
 * Radius of gyration (`gyration_radius`)
 * Concatenate multiple structures into one
 
-<img src="images/image.png" width="600">
+<img src="images/image.png" width="200">
 
 ---
 
@@ -48,7 +48,7 @@ Annotation system and geometric analysis:
   * Compute interface residues
   * Store interface info in `b_factor`
 
-<img src="images/image2.png" width="600">
+<img src="images/image2.png" width="200">
 
 ---
 
@@ -80,7 +80,7 @@ Annotation system and geometric analysis:
 * `struc.mass_center`
 * `py2dmol` visualization
 
-<img src="images/image_3.png" width="600">
+<img src="images/image_3.png" width="200">
 
 ---
 
